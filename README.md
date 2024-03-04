@@ -31,9 +31,9 @@ This is a simple Flappy Plane game implemented in Python using the Pygame librar
 
 ## Screenshots
 
-![Flappy Plane](screenshots/plane.png)
+![Flappy Plane](Screenshots/plane.png)
 
-![Plane Crash](screenshots/planecrash.png)
+![Plane Crash](Screenshots/planecrash.png)
 
 Feel free to customize and expand upon this game!
 
