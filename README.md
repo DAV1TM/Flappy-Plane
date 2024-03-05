@@ -1,4 +1,4 @@
-# ALert:  This game is for fun. Behind it is a tragedy that claimed many lives
+# ALert:  This game is for fun. Behind it is a tragedy that claimed many lives.
 
 ## Flappy Plane Game
 
