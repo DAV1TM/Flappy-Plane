@@ -1,4 +1,6 @@
-# Flappy Plane Game
+# ALert:  This game is for fun. Behind it is a tragedy that claimed many lives
+
+## Flappy Plane Game
 
 This is a simple Flappy Plane game implemented in Python using the Pygame library.
 
