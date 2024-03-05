@@ -17,7 +17,7 @@ This is a simple Flappy Plane game implemented in Python using the Pygame librar
 4. Run the game by executing the following command in the terminal:
 
     ```bash
-    python flappy_plane_game.py
+    python main.py
     ```
 
 ## Controls
