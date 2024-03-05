@@ -69,7 +69,7 @@ class FlappyPlane:
     def run(self):
         clock = pygame.time.Clock()
         pygame.font.init()
-        font_size = 30  # Set font size
+        font_size = 30 
         font = pygame.font.SysFont("Arial", font_size)
         while True:
             clock.tick(60)
@@ -98,9 +98,9 @@ class FlappyPlane:
             self.screen.blit(high_score_text,
                              ((self.screen.get_width() - high_score_text.get_width()) // 2, 120))
             if self.dead:
-                self.sprite = 1  # Adjusted index since one image is removed
+                self.sprite = 1 
             elif self.jump:
-                self.sprite = 0  # Adjusted index since one image is removed
+                self.sprite = 0 
             if not self.dead:
                 self.sprite = 0
             self.screen.blit(self.PlaneSprites[self.sprite], (70, self.PlaneY))
