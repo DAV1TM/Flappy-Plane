@@ -25,7 +25,7 @@ This is a simple Flappy Plane game implemented in Python using the Pygame librar
 - Press any key or click the mouse to make the plane jump and avoid the towers.
 - The goal is to pass through the gaps in the towers and avoid collisions.
 
-## If you want to play it on windows download winrar file "4windows" ->  (4windows.rar)
+## If you want to play it on windows download winrar file "4windows" ->  ![Flappy Plane](4windows.png)
 
 ## Features
 
