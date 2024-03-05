@@ -26,6 +26,7 @@ This is a simple Flappy Plane game implemented in Python using the Pygame librar
 - The goal is to pass through the gaps in the towers and avoid collisions.
 
 ## If you want to play it on windows download winrar file "4windows" ->  ![4windows](4windows.zip)
+https://drive.google.com/file/d/1oKm46kQcKhHHijw2WLyVTdA0WauTQyo_/view?usp=sharing
 
 ## Features
 
