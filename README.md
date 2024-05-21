@@ -36,9 +36,7 @@ https://drive.google.com/file/d/1oKm46kQcKhHHijw2WLyVTdA0WauTQyo_/view?usp=shari
 
 ## Screenshots
 
-<img src="Screenshots/plane.png" alt="Flappy Plane" width="200px">
-
-<img src="Screenshots/planecrash.png" alt="Plane Crash" width="200px">
+![Flappy Plane](Screenshots/plane.png) ![Plane Crash](Screenshots/planecrash.png)
 
 
 Feel free to customize and expand upon this game!
